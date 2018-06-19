@@ -50,4 +50,7 @@ class GardenGnome
     puts "GNARLY!!!"
   end
 
+  def introduce_self
+    "Hello humans, my name is _________, I am _____ years old, and you'll rue the day you crossed me!"
+
 end
