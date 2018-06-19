@@ -43,11 +43,11 @@ class GardenGnome
   end
 
   def gnaw
-    puts "Gnawing on a tree!!!"
+    "Gnawing on a tree!!!"
   end
 
   def shout
-    puts "GNARLY!!!"
+    "GNARLY!!!"
   end
 
   def introduce_self
