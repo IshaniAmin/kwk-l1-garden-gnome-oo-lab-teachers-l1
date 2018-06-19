@@ -34,12 +34,12 @@ class GardenGnome
     @personality
   end
 
-  def gluten_allergy
-    @gluten_allergy
+  def hat_color
+    @hat_color
   end
 
-  def gluten_allergy=(gluten_allergy)
-    @gluten_allergy = gluten_allergy
+  def hat_color=(hat_color)
+    @hat_color = hat_color
   end
 
 end
